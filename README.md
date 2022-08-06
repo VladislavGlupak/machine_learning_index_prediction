@@ -13,7 +13,7 @@ This repository represents comparing of performance machine learning model and n
 
 ---
 
-## Approach
+## Analyzing approach
 
 1. Data Formating
 
